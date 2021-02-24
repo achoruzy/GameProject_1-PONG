@@ -1,0 +1,8 @@
+/build
+/dist
+/Include
+/Lib
+/Scripts
+__init__.py
+pong.spec
+pyvenv.cfg
