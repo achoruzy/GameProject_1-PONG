@@ -1,3 +1,6 @@
+# Copyright (c) 2021 Arkadiusz Choruży
+# License: MIT
+
 import pygame as pg
 import sys
 import random
